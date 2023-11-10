@@ -182,6 +182,8 @@
   "footer": {
     "madeWith": "Réalisé avec",
     "in": "à",
-    "city": "Montréal"
+    "city": "Montréal",
+    "copyright": "2023",
+    "backToTop":"Back To Top"
   }
 }

@@ -28,7 +28,7 @@ function Footer() {
                   target="_blank"
                 >
                   {' '}
-                  {t('footer.montreal')}
+                  {t('footer.city')}
                 </a>
                 <br />
                 © {t('footer.copyright')} - Mamitina

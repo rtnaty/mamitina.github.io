@@ -180,8 +180,10 @@
     ]
   },
   "footer": {
-    "madeWith": "Made With",
+    "madeWith": "Made with",
     "in": "in",
-    "city":"Montreal"
+    "city":"Montreal",
+    "copyright": "2023",
+    "backToTop":"Back To Top"
   }
 }
