@@ -1,6 +1,6 @@
 {
   "main": {
-    "name": "HELLO, I'm Mamitina Ramanantsoa",
+    "name": "Mamitina Ramanantsoa",
     "occupation": "Architecte logiciel – Expert Internet des Objets",
     "description": "Passionné de technologie et d’innovation",
     "image": "profilepic.jpg",
@@ -8,6 +8,7 @@
     "contactmessage": "Pour tout renseignement supplémentaire, je me tiens à votre entière disposition.",
     "email": "rtnaty@me.com",
     "phone": "+1 (514) 572 7105",
+    "basedIn":"basé à",
     "address": {
       "title": "Adresse",
       "street": "1835 Rue Walnut",
@@ -62,30 +63,35 @@
     ],
     "work": [
       {
+        "key":"techinnov_2",
         "company": "Techinnov inc.",
         "title": "Architecte logiciel",
         "years": "Novembre 2023 — present",
         "description": "Développeur fullstack."
       },
       {
+        "key":"techinnov_1",
         "company": "Techinnov inc.",
         "title": "Développeur Full Stack",
         "years": "Fevrier 2022 — Novembre 2023",
         "description": "Développeur fullstack."
       },
       {
+        "key":"locweld",
         "company": "Locweld inc.",
         "title": "Développeur Logiciel",
         "years": "Juillet 2020 — Fevrier 2022",
         "description": "Développeur fullstack."
       },
       {
+        "key":"weelink",
         "company": "Weelink services",
         "title": "Développeur Web - Freelance",
         "years": "Novembre 2019 — juin-2020",
         "description": "Conception d'un portail web."
       },
       {
+        "key":"uqam",
         "company": "Laboratoire IoT de l'UQAM",
         "title": "Assistant de recherche au Lab.IoT ",
         "years": "Janvier 2018 - Janvier 2020",

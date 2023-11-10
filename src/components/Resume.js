@@ -1,4 +1,3 @@
-// Resume.js
 import React from 'react';
 import { useTranslation } from 'react-i18next';
 
@@ -16,7 +15,7 @@ const Resume = () => {
   ));
 
   const work = t('resume.work', { returnObjects: true }).map((item) => ( 
-    <div key={item.company}>
+    <div key={item.key}>
       <h3>{item.company}</h3>
       <p className="info">
         {item.title} <span>•</span> <em className="date">{item.years}</em>

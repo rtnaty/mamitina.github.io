@@ -1,6 +1,5 @@
 import React from 'react';
 import { useTranslation } from 'react-i18next';
-import './Header.css';
 
 function Header({ switchLanguage }) {
   const { t, i18n } = useTranslation();
@@ -27,10 +26,12 @@ function Header({ switchLanguage }) {
       <div className="row banner">
         <div className="banner-text">
           <h1 className="responsive-headline">
-            {t('header.greeting', { name: t('main.name') })}
+            HELLO,
+            <br />
+            I'm {t('main.name')}.
           </h1>
           <h3>
-            <span>{t('main.occupation')}</span> {t('header.basedIn')} {t('main.address.city')}.
+            <span>{t('main.occupation')}</span> {t('main.basedIn')} {t('main.address.city')}.
             <br />
             {t('main.description')}.
           </h3>
