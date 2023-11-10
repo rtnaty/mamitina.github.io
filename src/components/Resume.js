@@ -36,7 +36,7 @@ const Resume = () => {
       <div className="row work">
         <div className="three columns header-col">
           <h1>
-            <span>{t('resume.experience')}</span>
+            <span>{t('resume.experience_title')}</span>
           </h1>
         </div>
         <div className="nine columns main-col">{work}</div>
@@ -44,7 +44,7 @@ const Resume = () => {
       <div className="row education">
         <div className="three columns header-col">
           <h1>
-            <span>{t('resume.education')}</span>
+            <span>{t('resume.education_title')}</span>
           </h1>
         </div>
         <div className="nine columns main-col">
@@ -56,7 +56,7 @@ const Resume = () => {
       <div className="row skill">
         <div className="three columns header-col">
           <h1>
-            <span>{t('resume.skills')}</span>
+            <span>{t('resume.skills_title')}</span>
           </h1>
         </div>
         <div className="nine columns main-col">

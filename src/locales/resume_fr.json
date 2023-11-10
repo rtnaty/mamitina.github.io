@@ -9,6 +9,7 @@
     "email": "rtnaty@me.com",
     "phone": "+1 (514) 572 7105",
     "basedIn":"basé à",
+    "details": "Coordonnées",
     "address": {
       "title": "Adresse",
       "street": "1835 Rue Walnut",
@@ -16,6 +17,7 @@
       "state": "Quebec",
       "zip": "J4T 1G6"
     },
+    "download_cv": "Télécharger mon CV",
     "social": [
       {
         "name": "facebook",
@@ -40,6 +42,9 @@
     ]
   },
   "resume": {
+    "experience_title" :"EXPÉRIENCES",
+    "education_title":"FORMATION",
+    "skills_title":"COMPÉTENCES",
     "skillmessage": "Développeur Web et Logiciel avec une expertise dans le domaine de l'Internet des Objets",
     "education": [
       {
@@ -67,7 +72,7 @@
         "company": "Techinnov inc.",
         "title": "Architecte logiciel",
         "years": "Novembre 2023 — present",
-        "description": "Développeur fullstack."
+        "description": "Architecte logiciel et Développeur fullstack."
       },
       {
         "key":"techinnov_1",

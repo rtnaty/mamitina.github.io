@@ -15,6 +15,7 @@ function Header({ switchLanguage }) {
 
   return (
     <header id="home">
+      <div className="row banner">
       <div id="toggle" className="toggle noselect" onClick={switchLanguage}>
         <img
           id="flag"
@@ -23,7 +24,6 @@ function Header({ switchLanguage }) {
           className={`flag-icon ${i18n.language}`}
         />
       </div>
-      <div className="row banner">
         <div className="banner-text">
           <h1 className="responsive-headline">
             HELLO,

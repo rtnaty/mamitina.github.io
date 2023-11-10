@@ -1,7 +1,7 @@
 import React from 'react';
 import i18n from './i18n';
 import Header from './components/Header';
-import AboutMe from './components/AboutMe';
+import About from './components/About';
 import Resume from './components/Resume';
 import Footer from './components/Footer';
 
@@ -14,7 +14,7 @@ function App() {
   return (
     <div>
       <Header switchLanguage={switchLanguage}/>
-      <AboutMe/>
+      <About/>
       <Resume/>
       <Footer/>
     </div>
