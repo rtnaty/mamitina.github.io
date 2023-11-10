@@ -178,5 +178,10 @@
         "user": ""
       }
     ]
+  },
+  "footer": {
+    "madeWith": "Made With",
+    "in": "in",
+    "city":"Montreal"
   }
 }

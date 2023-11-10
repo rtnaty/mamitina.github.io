@@ -178,5 +178,10 @@
         "user": ""
       }
     ]
+  },
+  "footer": {
+    "madeWith": "Réalisé avec",
+    "in": "à",
+    "city": "Montréal"
   }
 }
