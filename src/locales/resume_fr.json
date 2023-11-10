@@ -1,0 +1,170 @@
+{
+  "main": {
+    "name": "HELLO, I'm Mamitina Ramanantsoa",
+    "occupation": "Architecte logiciel – Expert Internet des Objets",
+    "description": "Passionné de technologie et d’innovation",
+    "image": "profilepic.jpg",
+    "bio": "Passionné de technologie et d’innovation, j’aime le travail bien fait. Ma capacité à se bâtir une discipline personnelle et mon sens critique combinés à mes connaissances sont mes principaux atouts. J’ai acquis de l’expérience à travers différents projets. Je possède également une solide formation en gestion des bases de données.",
+    "contactmessage": "Pour tout renseignement supplémentaire, je me tiens à votre entière disposition.",
+    "email": "rtnaty@me.com",
+    "phone": "+1 (514) 572 7105",
+    "address": {
+      "title": "Adresse",
+      "street": "1835 Rue Walnut",
+      "city": "Saint Hubert",
+      "state": "Quebec",
+      "zip": "J4T 1G6"
+    },
+    "social": [
+      {
+        "name": "facebook",
+        "url": "https://www.facebook.com/rtnaty",
+        "className": "fa fa-facebook"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/tsilavina-ramanantsoa/",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "instagram",
+        "url": "https://www.instagram.com/mamitina_/",
+        "className": "fa fa-instagram"
+      },
+      {
+        "name": "github",
+        "url": "http://github.com/rtnaty",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "Développeur Web et Logiciel avec une expertise dans le domaine de l'Internet des Objets",
+    "education": [
+      {
+        "school": "Université du Québec à Montréal, Montréal",
+        "degree": "Maîtrise en informatique de gestion ",
+        "graduated": "Novembre 2019",
+        "description": "Projet de fin d’étude - Création d'un filtre pour l'amélioration de la qualité des données pour le développement d’une application d’internet des objets."
+      },
+      {
+        "school": "University of Technology, Mauritius",
+        "degree": "Master of science Enterprise Security and Digital Forensics ",
+        "graduated": "Juillet 2016",
+        "description": "Gestion de la sécurité des systèmes d'information."
+      },
+      {
+        "school": "Institut Supérieur Polytechnique de Madagascar",
+        "degree": "Baccalauréat en Génie Logiciel",
+        "graduated": "Octobre 2014",
+        "description": ""
+      }
+    ],
+    "work": [
+      {
+        "company": "Techinnov inc.",
+        "title": "Architecte logiciel",
+        "years": "Novembre 2023 — present",
+        "description": "Développeur fullstack."
+      },
+      {
+        "company": "Techinnov inc.",
+        "title": "Développeur Full Stack",
+        "years": "Fevrier 2022 — Novembre 2023",
+        "description": "Développeur fullstack."
+      },
+      {
+        "company": "Locweld inc.",
+        "title": "Développeur Logiciel",
+        "years": "Juillet 2020 — Fevrier 2022",
+        "description": "Développeur fullstack."
+      },
+      {
+        "company": "Weelink services",
+        "title": "Développeur Web - Freelance",
+        "years": "Novembre 2019 — juin-2020",
+        "description": "Conception d'un portail web."
+      },
+      {
+        "company": "Laboratoire IoT de l'UQAM",
+        "title": "Assistant de recherche au Lab.IoT ",
+        "years": "Janvier 2018 - Janvier 2020",
+        "description": "Developpeur et Data Analyst dans divers projets de recherche appliquée (p.ex., développement d’un magasin connecté, projet de gymnase connecté, projet Montréal en Histoire) en collaboration à divers projets soutenus par des partenaires technologiques: reelyActive, Daxyon, RF Controls, Impinj"
+      }
+    ],
+    "skills": [
+      {
+        "name": "Azure DevOps",
+        "level": "90%"
+      },
+      {
+        "name": "IIoT",
+        "level": "100%"
+      },
+      {
+        "name": "C#",
+        "level": "99%"
+      },
+      {
+        "name": "DotNet",
+        "level": "90%"
+      },
+      {
+        "name": "Python",
+        "level": "80%"
+      },
+      {
+        "name": "HTML&CSS",
+        "level": "90%"
+      },
+      {
+        "name": "Javascript",
+        "level": "80%"
+      },
+      {
+        "name": "NodeJs",
+        "level": "75%"
+      },
+      {
+        "name": "ReactJs",
+        "level": "75%"
+      },
+      {
+        "name": "SQL",
+        "level": "90%"
+      },
+      {
+        "name": "MongoDB",
+        "level": "50%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "Weelink services",
+        "category": "Tech company",
+        "image": "weelink.jpg",
+        "url": "https://weelinkservices.com/"
+      },
+      {
+        "title": "Connected",
+        "category": "IoT Dashboard",
+        "image": "Lab.jpg",
+        "url": ""
+      }
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "",
+        "user": ""
+      },
+      {
+        "text": "",
+        "user": ""
+      }
+    ]
+  }
+}

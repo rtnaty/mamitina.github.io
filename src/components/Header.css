@@ -1,0 +1,34 @@
+/* src/components/Header.css */
+.toggle {
+    position: relative;
+    width: 60px;
+    height: 30px;
+    background-color: hsla(0, 0%, 100%, 0.25);
+    backdrop-filter: blur(0px);
+    border-radius: 20px;
+    padding: 4px; /* Assuming you want to use the $padding variable */
+    cursor: pointer;
+    z-index: 100;
+  }
+  
+  .toggle img {
+    position: absolute;
+    top: 4px; /* Adjust according to your padding */
+    left: 8px; /* Default position for 'fr' */
+    transform: translateX(${(props) => (props.i18n.language === 'en' ? '20px' : '0')}); /* Corrected line */
+    width: 30px;
+    height: 30px;
+    border-radius: 50%;
+    object-fit: cover;
+    transition: transform 0.2s ease-in-out;
+  }
+  
+  .noselect {
+    -webkit-touch-callout: none;
+    -webkit-user-select: none;
+    -khtml-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+  }
+  
